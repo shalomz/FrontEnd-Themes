@@ -1,0 +1,45 @@
+jQuery(document).ready(function($) {
+    
+
+    /* ======= jQuery Placeholder ======= */
+    $('input, textarea').placeholder();   
+	
+    
+    /* ======= Page preloader ======= */
+    /*
+    $(window).load(function(){
+        $('#page-preloader').fadeOut(800); 
+    });
+    */
+    
+    /*======= Twitter Feed ========= */
+    $('#tweet').twittie({
+            
+        dateFormat: '%d %b , %Y',
+        template: '<div class="text">{{tweet}}</div> <div class="date">{{date}}</div><div class="btn-wrapper text-center"><a class="btn btn-cta-primary" href="https://twitter.com/3rdwave_themes" target="_blank">Follow us</a></div>',
+        count: 1,
+        hideReplies: true
+        
+    });
+    
+    /* ======= Fixed header when scrolled ======= */
+    
+    $(window).on('scroll', function(){
+        
+         if ($(window).scrollTop() > 400) {
+             $('#sticky-headaer').slideDown('easeOutQuad');
+         }
+         else {
+             $('#sticky-headaer').slideUp('easeOutQuad');
+         }
+    });	  
+    
+    
+    /* ======= Manually Trigger Bootstrap Promo Modal ======= */
+    $('.trigger-promo-modal').on('click', function(){
+        $('#promo-modal').modal('show');
+    });
+    
+
+
+});

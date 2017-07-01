@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-US" prefix="og: http://ogp.me/ns#" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<title>Free Bootstrap Resume/CV Template for Developers - Orbit</title>
+
+
+
+
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta name="description" content="UX centred HTML5 Bootstrap themes and site templates made for developers and startups">
+<meta name="author" content="3rd Wave Media"> 
+<link rel="shortcut icon" href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/favicon.ico">
+<link rel="apple-touch-icon" href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/apple-touch-icon.png">  
+<link href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />  
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link href='http://fonts.googleapis.com/css?family=Roboto:100,400,300,700,500' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'> 
+<link href='http://fonts.googleapis.com/css?family=Lobster+Two:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+<!-- Global CSS -->
+<link rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/bootstrap/css/bootstrap.min.css">
+
+<!-- Plugins CSS --> 
+<link rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/font-awesome/css/font-awesome.css">
+<link rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/icomoon/style.css">
+
+<!-- Theme CSS -->  
+<link id="theme-style" rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/style.css">
+
+
+<!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Orbit is a free resume/CV template designed for developers. Looking to impress your potential employer? Get this template and you can..."/>
+<link rel="canonical" href="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Free Bootstrap Resume/CV Template for Developers - Orbit" />
+<meta property="og:description" content="Orbit is a free resume/CV template designed for developers. Looking to impress your potential employer? Get this template and you can..." />
+<meta property="og:url" content="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/" />
+<meta property="og:site_name" content="Responsive Bootstrap Themes &amp; Templates" />
+<meta property="article:publisher" content="https://www.facebook.com/3rdwavethemes/" />
+<meta property="og:image" content="http://themes.3rdwavemedia.com/wp-content/uploads/2016/02/free-bootstrap-resume-cv-template-for-developers-orbit.png" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="375" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Orbit is a free resume/CV template designed for developers. Looking to impress your potential employer? Get this template and you can..." />
+<meta name="twitter:title" content="Free Bootstrap Resume/CV Template for Developers - Orbit" />
+<meta name="twitter:site" content="@3rdwave_themes" />
+<meta name="twitter:image" content="http://themes.3rdwavemedia.com/wp-content/uploads/2016/02/free-bootstrap-resume-cv-template-for-developers-orbit.png" />
+<meta name="twitter:creator" content="@3rdwave_themes" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Responsive Bootstrap Themes &amp; Templates &raquo; Feed" href="http://themes.3rdwavemedia.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Responsive Bootstrap Themes &amp; Templates &raquo; Comments Feed" href="http://themes.3rdwavemedia.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Responsive Bootstrap Themes &amp; Templates &raquo; Orbit &#8211; Free Responsive Bootstrap Resume/CV Template for Developers Comments Feed" href="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/themes.3rdwavemedia.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://themes.3rdwavemedia.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wptf-style-css'  href='http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/wptf.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://themes.3rdwavemedia.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='http://themes.3rdwavemedia.com/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=4.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var eStore_AVUI_JS = {"ajaxurl":"http:\/\/themes.3rdwavemedia.com\/wp-admin\/admin-ajax.php","add_cart_nonce":"65cf9a87a0","estore_url":"http:\/\/themes.3rdwavemedia.com\/wp-content\/plugins\/wp-cart-for-digital-products","estore_checkout_page":"","estore_auto_co_redirect":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/plugins/eStore-advanced-variations-ui/js/eStore-avui-ajax.js?ver=4.8'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/lib/jquery.external.lib.js?ver=4.8'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/lib/jquery.lightbox-0.5.pack.js?ver=4.8'></script>
+<link rel='https://api.w.org/' href='http://themes.3rdwavemedia.com/wp-json/' />
+<meta name="generator" content="WordPress 4.8" />
+<link rel='shortlink' href='http://themes.3rdwavemedia.com/?p=730' />
+<link rel="alternate" type="application/json+oembed" href="http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.3rdwavemedia.com%2Fwebsite-templates%2Forbit-free-resume-cv-template-for-developers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://themes.3rdwavemedia.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthemes.3rdwavemedia.com%2Fwebsite-templates%2Forbit-free-resume-cv-template-for-developers%2F&#038;format=xml" />
+
+<!-- WP eStore Extra Shortcodes v4.8.7 - http://www.tipsandtricks-hq.com/?p=1059 -->
+<link type="text/css" rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/plugins/eStore-extra-shortcodes/eStore_extra_shortcode_css.css" />
+<link type="text/css" rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/wp_eStore_style.css?ver=7.1.9" />
+<link type="text/css" rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/wp_eStore_custom_style.css" />
+
+<!-- WP eStore plugin v7.1.9 - http://www.tipsandtricks-hq.com/wordpress-estore-plugin-complete-solution-to-sell-digital-products-from-your-wordpress-blog-securely-1059/ -->
+<script type="text/javascript">
+	JS_WP_ESTORE_CURRENCY_SYMBOL = "$";
+	JS_WP_ESTORE_VARIATION_ADD_STRING = "+";
+        JS_WP_ESTORE_VARIATION_DECIMAL_SEPERATOR = ".";
+	JS_WP_ESTORE_VARIATION_THOUSAND_SEPERATOR = ",";
+        JS_WP_ESTORE_VARIATION_CURRENCY_POS = "left";
+        JS_WP_ESTORE_VARIATION_NUM_OF_DECIMALS = "2";    
+	JS_WP_ESTORE_MINIMUM_PRICE_YOU_CAN_ENTER = "The minimum amount you can specify is ";
+        JS_WP_ESTORE_URL = "http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products";</script><script type="text/javascript" src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/lib/eStore_read_form.js?ver=7.1.9"></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ 
+
+<!-- Theme CSS --> 
+<link rel="stylesheet" href="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/style.css?1461924045" type="text/css" media="all" />
+<link rel="pingback" href="" />         
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24707561-14', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1506230579705064');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1506230579705064&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+    
+<body class="templates-template-default single single-templates postid-730 unknown">
+    
+    
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=994736563909741";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- ******PRELOADER****** --> 
+        
+    
+    <div id="wrapper" class="wrapper">
+        
+                    
+        <!-- ******HEADER****** --> 
+        <header id="header" class="header">
+            <div class="container-fluid">                
+                <h1 class="logo pull-left">
+                    <a href="http://themes.3rdwavemedia.com/" title="Responsive Bootstrap Themes &amp; Templates" rel="home">
+                        <img class="logo-image" src="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/logo.png" alt="3rd Wave Media logo">
+                        <span class="logo-title"><span class="light">Bootstrap</span> Templates</span>
+                    </a>
+                </h1><!--//logo-->  
+                    
+                <nav id="main-nav" class="main-nav navbar-right" role="navigation" >                    
+                    <div class="navbar-header">
+                        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button><!--//nav-toggle-->
+                    </div><!--//navbar-header-->                   
+                    <div class="navbar-collapse collapse" id="navbar-collapse">
+                    <ul id="menu-primary" class="nav navbar-nav"><li class="menu-home"><a href="http://themes.3rdwavemedia.com/">Home</a></li>
+<li class="menu-templates"><a href="/website-templates/">Templates</a></li>
+<li class="menu-contact"><a href="http://themes.3rdwavemedia.com/contact/">Contact</a></li>
+</ul>                    </div><!--//navabr-collapse-->                      
+                </nav><!-- //main-nav -->   
+            </div><!--//container-fluid-->              
+        </header><!-- //header -->  
+        
+     
+        <div class="breadcrumbs container">
+            <div class="breadcrumbs-inner">
+                            </div>
+        </div><!--breadcrumbs-->
+<div class="content-wrapper template-content-wrapper container">
+    <section id="primary" class="primary" role="region">
+    	    
+    		<article id="post-730" class="post post-730 templates type-templates status-publish has-post-thumbnail hentry" role="article">
+    			<header class="entry-header page-header">
+    				<h1 class="entry-title page-title">Orbit &#8211; Free Responsive Bootstrap Resume/CV Template for Developers</h1>						
+    			</header><!-- .entry-header -->
+    
+    			<div class="row">
+        			<div class="entry-content col-md-8 col-sm-12 col-xs-12">
+        				<div class="promo-block-wrapper">
+<p><a href="http://themes.3rdwavemedia.com/demo/orbit/" target="_blank"><img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Responsive-HTML5-Resume-CV-Template-for-Developers.png" alt="Responsive-HTML5-Resume-CV-Template-for-Developers" class="img-responsive alignnone size-full wp-image-722" srcset="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Responsive-HTML5-Resume-CV-Template-for-Developers.png 750w, http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Responsive-HTML5-Resume-CV-Template-for-Developers-300x258.png 300w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>
+</div>
+<div class="blocks-wrapper">
+<div class="actions-block">
+<p><a class="btn btn-cta-secondary" href="http://themes.3rdwavemedia.com/demo/orbit" target="_blank">Live Demo</a></p>
+</div>
+<h2 class="text-center text-highlight">Free Bootstrap Resume/CV Template for Developers</h2>
+<div class="summary-block post-block text-center">
+<p class="text-left">Orbit is a free resume/CV template designed for developers. Looking to impress your potential employer? Get this template and you can send an online resume/CV instead of a word/pdf attachment. You can easily make different versions of your online resume/CV to tailor for different job positions too. The template comes with <strong>6 colour schemes</strong>. The <strong>source LESS files </strong> are included so it&#8217;s quick and easy to change the styling and colour scheme.</p>
+<p class="text-left">We will update and improve the template based on user feedback so get in touch or leave a comment if you have any questions or suggestions. If you like the template and find it useful, <strong>we’d appreciate your help in spreading the word on your networks</strong>. You can also <a href="https://twitter.com/3rdwave_themes" target="_blank">follow us on Twitter</a> to be the first to know when we release new templates and other freebies</p>
+<p>    <a class="trigger-promo-modal btn btn-cta-primary" data-target="#promo-modal" href="http://themes.3rdwavemedia.com/download/738/" rel="nofollow"><i class="fa fa-download"></i>
+	Free Download	<span class="count">(44801)</span>
+</a></p>
+<p class="github-repo-link"><a href="https://github.com/xriley/Orbit-Theme" target="_blank">(View on GitHub)</a></p>
+</div>
+<p><!--//intro--></p>
+<hr />
+<div class="pages-block post-block">
+<h3 class="block-title">6 Colour Schemes</h3>
+<div class="row screenshots">
+<div class="figure-item col-md-4 col-sm-4 col-xs-6">
+<figure class="figure">
+                <img class="img-responsive" src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-1.jpg" alt="Free Bootstrap resume/cv template for developers - default colour"/><figcaption class="caption">styles.css</figcaption></figure>
+</p></div>
+<div class="figure-item col-md-4 col-sm-4 col-xs-6">
+<figure class="figure">
+                <img class="img-responsive" src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-2.jpg" alt="Free Bootstrap resume/cv template for developers - colour 2"/><figcaption class="caption">styles-2.css</figcaption></figure>
+</p></div>
+<div class="figure-item col-md-4 col-sm-4 col-xs-6">
+<figure class="figure">
+                <img class="img-responsive" src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-3.jpg" alt="Free Bootstrap resume/cv template for developers - colour 3"/><figcaption class="caption">styles-3.css</figcaption></figure>
+</p></div>
+<div class="clearfix"></div>
+<div class="figure-item col-md-4 col-sm-4 col-xs-6">
+<figure class="figure">
+                <img class="img-responsive" src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg"  alt="Free Bootstrap resume/cv template for developers - colour 4"/><figcaption class="caption">styles-4.css</figcaption></figure>
+</p></div>
+<div class="figure-item col-md-4 col-sm-4 col-xs-6">
+<figure class="figure">
+                <img class="img-responsive" src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-5.jpg"  alt="Free Bootstrap resume/cv template for developers - colour 5"/><figcaption class="caption">styles-5.css</figcaption></figure>
+</p></div>
+<div class="figure-item col-md-4 col-sm-4 col-xs-6">
+<figure class="figure">
+                <img class="img-responsive" src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-6.jpg"  alt="Free Bootstrap resume/cv template for developers - colour 6"/><figcaption class="caption">styles-6.css</figcaption></figure>
+</p></div>
+</p></div>
+<p><!--//row-->
+</div>
+<p><!--//pages-block--></p>
+<hr />
+<div class="license-block post-block">
+<h3 class="block-title">Author &amp; License</h3>
+<div class="row">
+<div class="details col-md-8 col-sm-6 col-xs-12">
+<p>This Bootstrap template is made by UX designer <a href="https://twitter.com/3rdwave_themes" target="_blank">Xiaoying Riley</a> for developers and is 100% <strong>FREE</strong> under the <a class="dotted-line" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0 License (CC BY 3.0)</a></p>
+<div class="other-license-block">
+<h4 class="title">Other License Options</h4>
+<p>If you&#8217;d like to <strong>use this template without the attribution link</strong>, you can buy the commercial license:</p>
+<p class="license-link" ><a href="http://themes.3rdwavemedia.com/licenses/" target="_blank">Single Application License ($10) </a></p>
+<p class="license-link last" ><a href="http://themes.3rdwavemedia.com/licenses/" target="_blank">Multiple Applications License ($40)</a></p>
+<p>              <!--<a class="btn btn-cta-primary" href="mailto:themes@3rdwavemedia.com">Get in Touch</a>-->
+              <script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/orbit" target="_blank">Buy License</a>
+        </div>
+</p></div>
+<div class="author-profile col-md-4 col-sm-6 col-xs-12">
+        <a href="https://twitter.com/3rdwave_themes" target="_blank"><img class="img-responsive" src="http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/images/team/xiaoying-riley.png" alt="Xiaoying Riley"></a></p>
+<ul class="social list-inline">
+<li><a href="https://twitter.com/3rdwave_themes" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+<li><a href="https://www.facebook.com/3rdwavethemes/" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+<li><a href="https://github.com/xriley" target="_blank"><i class="fa fa-github-square"></i></a></li>
+<li><a href="https://uk.linkedin.com/in/xiaoying" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+<li><a href="https://medium.com/@3rdwave_themes" target="_blank"><i class="fa fa-medium"></i></a></li>
+</ul></div>
+<p><!--//author-profile-->
+    </div>
+<p><!--//row--></p>
+</div>
+<p><!--//license-block--></p>
+<p><div class="responsive-tabs">
+<h2 class="tabtitle">Details</h2>
+<div class="tabcontent">
+</p>
+<div class="feature-block post-block">
+<h3 class="block-title tabby-first-title">Features</h3>
+<ul class="list-unstyled">
+<li><i class="fa fa-check"></i> Fully Responsive</li>
+<li><i class="fa fa-check"></i> HTML5 + CSS3</li>
+<li><i class="fa fa-check"></i> Built on Bootstrap 3</li>
+<li><i class="fa fa-check"></i> 6 colour schemes</li>
+<li><i class="fa fa-check"></i> 600+ FontAwesome icons</li>
+<li><i class="fa fa-check"></i> LESS files included</li>
+<li><i class="fa fa-check"></i> Compatible with all modern browsers</li>
+</ul>
+</div>
+<p><!--//feature-block--></p>
+<p>
+</div><h2 class="tabtitle">Changelog</h2>
+<div class="tabcontent">
+</p>
+<div class="changelog-block post-block">
+<h3 class="block-title tabby-first-title">Changelog</h3>
+<h4 class="version">v1.0 &#8211; <span class="date">29 Jan 2016</span></h4>
+<ul>
+<li>Initial Release</li>
+</ul>
+</div>
+<p><!--//changelog-block--></p>
+<p>
+</div><h2 class="tabtitle">Credits</h2>
+<div class="tabcontent">
+</p>
+<div class="credits-block post-block">
+<h3 class="block-title tabby-first-title">Credits</h3>
+<ul class="external-credits">
+<li><a href="http://getbootstrap.com/" target="_blank">Bootstrap</a></li>
+<li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">FontAwesome</a></li>
+<li><a href="http://jquery.com/" target="_blank">jQuery</a></li>
+</ul>
+</div>
+<p><!--//credits-block-->
+</div></div>
+</div>
+<p><!--//blocks-wrapper--></p>
+		
+        				
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-113">
+        <div id="dsq-comment-header-113" class="dsq-comment-header">
+            <cite id="dsq-cite-113">
+                <span id="dsq-author-user-113">kazu</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-113" class="dsq-comment-body">
+            <div id="dsq-comment-message-113" class="dsq-comment-message"><p>hi nice templates!</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-120">
+        <div id="dsq-comment-header-120" class="dsq-comment-header">
+            <cite id="dsq-cite-120">
+                <a id="dsq-author-user-120" href="http://themes.3rdwavemedia.com/" target="_blank" rel="nofollow">HTML5 Templates</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-120" class="dsq-comment-body">
+            <div id="dsq-comment-message-120" class="dsq-comment-message"><p>Thanks!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-131">
+        <div id="dsq-comment-header-131" class="dsq-comment-header">
+            <cite id="dsq-cite-131">
+                <a id="dsq-author-user-131" href="http://jamestomasino.com/" target="_blank" rel="nofollow">James Tomasino</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-131" class="dsq-comment-body">
+            <div id="dsq-comment-message-131" class="dsq-comment-message"><p>Beautiful template. I&#8217;m using it for my resume site now (with attribution). Cheers</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-139">
+        <div id="dsq-comment-header-139" class="dsq-comment-header">
+            <cite id="dsq-cite-139">
+                <span id="dsq-author-user-139">Tim Ostrander</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-139" class="dsq-comment-body">
+            <div id="dsq-comment-message-139" class="dsq-comment-message"><p>Great templates! I used this on my site, with credit to the designer.</p>
+<p>Thanks!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-142">
+        <div id="dsq-comment-header-142" class="dsq-comment-header">
+            <cite id="dsq-cite-142">
+                <span id="dsq-author-user-142">Youchao Xue</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-142" class="dsq-comment-body">
+            <div id="dsq-comment-message-142" class="dsq-comment-message"><p>It is beautiful, if there will be a hexo-markdown-github page version , that would be fantastic.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-146">
+        <div id="dsq-comment-header-146" class="dsq-comment-header">
+            <cite id="dsq-cite-146">
+                <span id="dsq-author-user-146">Alex Gluhov</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-146" class="dsq-comment-body">
+            <div id="dsq-comment-message-146" class="dsq-comment-message"><p>Thank you guys!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment even thread-odd thread-alt depth-1" id="dsq-comment-161">
+        <div id="dsq-comment-header-161" class="dsq-comment-header">
+            <cite id="dsq-cite-161">
+                <a id="dsq-author-user-161" href="http://geoffrey.website/" target="_blank" rel="nofollow">Geoffrey Aladro</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-161" class="dsq-comment-body">
+            <div id="dsq-comment-message-161" class="dsq-comment-message"><p>Thank you very much for such a wonderful template!</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+    <li class="comment odd alt thread-even depth-1" id="dsq-comment-162">
+        <div id="dsq-comment-header-162" class="dsq-comment-header">
+            <cite id="dsq-cite-162">
+                <span id="dsq-author-user-162">Hashantha Nayanajith Wickramas</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-162" class="dsq-comment-body">
+            <div id="dsq-comment-message-162" class="dsq-comment-message"><p>Nice Work Mate</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/';
+var disqus_identifier = '730 http://themes.3rdwavemedia.com/?post_type=templates&#038;p=730';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = '3wmthemes';
+var disqus_title = "Orbit &#8211; Free Responsive Bootstrap Resume\/CV Template for Developers";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = '';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=730';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+ 				
+        			</div><!-- .entry-content -->
+        			
+        				
+
+			
+
+<aside id="secondary" class="widget-area col-md-3 col-sm-12 col-xs-12 col-md-offset-1 col-sm-offset-0 col-xs-offset-0"  role="complementary" >		
+
+<div id="text-6" class="widget widget_text"><h3 class="sidebar-widget-title">Twitter Feed</h3>			<div class="textwidget"><ul class="twitterfeed"><li class="tweet"><p>How to Create a Side Project that Customers Actually Want 
+https://t.co/5MwXrSvzUo
+<a href="http://twitter.com/search?q=%23developer" rel="external nofollow">#developer</a> <a href="http://twitter.com/search?q=%23designer" rel="external nofollow">#designer</a> <a href="http://twitter.com/search?q=%23startup" rel="external nofollow">#startup</a> https://t.co/UBvcDM3dwZ</p>
+<span class="intent">
+<a href="http://twitter.com/intent/retweet?related=3rdwave_themes&amp;tweet_id=880885422662012935" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/retweet.png" height="16" width="16" alt="Retweet"></a>
+<a href="http://twitter.com/intent/tweet?related=3rdwave_themes&amp;in_reply_to=880885422662012935" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/reply.png" height="16" width="16" alt="Reply"></a>
+<a href="http://twitter.com/intent/favorite?related=3rdwave_themes&amp;tweet_id=880885422662012935" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/favorite.png" height="16" width="16" alt="Favorite"></a>
+</span>
+<span class="timeline"><a href="http://twitter.com/3rdwave_themes/statuses/880885422662012935" rel="external nofollow">(about 2 hours ago)</a><br /></span>
+</li>
+<li class="tweet"><p>40 Powerful plugins for <a href="http://twitter.com/search?q=%23Sketch" rel="external nofollow">#Sketch</a> 
+https://t.co/5L5RIg2b2F
+<a href="http://twitter.com/search?q=%23UI" rel="external nofollow">#UI</a> <a href="http://twitter.com/search?q=%23UX" rel="external nofollow">#UX</a> <a href="http://twitter.com/search?q=%23design" rel="external nofollow">#design</a> <a href="http://twitter.com/search?q=%23resources" rel="external nofollow">#resources</a> https://t.co/2dlu7EtUlv</p>
+<span class="intent">
+<a href="http://twitter.com/intent/retweet?related=3rdwave_themes&amp;tweet_id=880804627561762816" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/retweet.png" height="16" width="16" alt="Retweet"></a>
+<a href="http://twitter.com/intent/tweet?related=3rdwave_themes&amp;in_reply_to=880804627561762816" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/reply.png" height="16" width="16" alt="Reply"></a>
+<a href="http://twitter.com/intent/favorite?related=3rdwave_themes&amp;tweet_id=880804627561762816" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/favorite.png" height="16" width="16" alt="Favorite"></a>
+</span>
+<span class="timeline"><a href="http://twitter.com/3rdwave_themes/statuses/880804627561762816" rel="external nofollow">(about 7 hours ago)</a><br /></span>
+</li>
+<li class="tweet"><p>Responsive <a href="http://twitter.com/search?q=%23Bootstrap" rel="external nofollow">#Bootstrap</a> Theme for Promoting Your Mobile App 
+https://t.co/BdwRCnjWAk
+<a href="http://twitter.com/search?q=%23developer" rel="external nofollow">#developer</a> <a href="http://twitter.com/search?q=%23appdev" rel="external nofollow">#appdev</a> https://t.co/hHocZH6anF</p>
+<span class="intent">
+<a href="http://twitter.com/intent/retweet?related=3rdwave_themes&amp;tweet_id=880767644881833984" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/retweet.png" height="16" width="16" alt="Retweet"></a>
+<a href="http://twitter.com/intent/tweet?related=3rdwave_themes&amp;in_reply_to=880767644881833984" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/reply.png" height="16" width="16" alt="Reply"></a>
+<a href="http://twitter.com/intent/favorite?related=3rdwave_themes&amp;tweet_id=880767644881833984" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/favorite.png" height="16" width="16" alt="Favorite"></a>
+</span>
+<span class="timeline"><a href="http://twitter.com/3rdwave_themes/statuses/880767644881833984" rel="external nofollow">(about 10 hours ago)</a><br /></span>
+</li>
+<li class="tweet"><p>12 Amazing <a href="http://twitter.com/search?q=%23JavaScript" rel="external nofollow">#JavaScript</a> Shorthand Techniques
+https://t.co/vPCCenHkA4
+<a href="http://twitter.com/search?q=%23webdev" rel="external nofollow">#webdev</a> <a href="http://twitter.com/search?q=%23developer" rel="external nofollow">#developer</a> https://t.co/hVENpd0Xvl</p>
+<span class="intent">
+<a href="http://twitter.com/intent/retweet?related=3rdwave_themes&amp;tweet_id=880721835620532224" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/retweet.png" height="16" width="16" alt="Retweet"></a>
+<a href="http://twitter.com/intent/tweet?related=3rdwave_themes&amp;in_reply_to=880721835620532224" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/reply.png" height="16" width="16" alt="Reply"></a>
+<a href="http://twitter.com/intent/favorite?related=3rdwave_themes&amp;tweet_id=880721835620532224" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/favorite.png" height="16" width="16" alt="Favorite"></a>
+</span>
+<span class="timeline"><a href="http://twitter.com/3rdwave_themes/statuses/880721835620532224" rel="external nofollow">(about 13 hours ago)</a><br /></span>
+</li>
+<li class="tweet"><p>Functional programming in <a href="http://twitter.com/search?q=%23Javascript" rel="external nofollow">#Javascript</a> is an antipattern 
+https://t.co/5qsjv0xAZz
+<a href="http://twitter.com/search?q=%23webdev" rel="external nofollow">#webdev</a> <a href="http://twitter.com/search?q=%23appdev" rel="external nofollow">#appdev</a> <a href="http://twitter.com/search?q=%23developer" rel="external nofollow">#developer</a> https://t.co/nG0HOEsZh5</p>
+<span class="intent">
+<a href="http://twitter.com/intent/retweet?related=3rdwave_themes&amp;tweet_id=880686864017100801" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/retweet.png" height="16" width="16" alt="Retweet"></a>
+<a href="http://twitter.com/intent/tweet?related=3rdwave_themes&amp;in_reply_to=880686864017100801" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/reply.png" height="16" width="16" alt="Reply"></a>
+<a href="http://twitter.com/intent/favorite?related=3rdwave_themes&amp;tweet_id=880686864017100801" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/favorite.png" height="16" width="16" alt="Favorite"></a>
+</span>
+<span class="timeline"><a href="http://twitter.com/3rdwave_themes/statuses/880686864017100801" rel="external nofollow">(about 15 hours ago)</a><br /></span>
+</li>
+<li class="tweet"><p>10X Your Results, One Tiny Action at a Time (The Power of Incremental Progress) https://t.co/o56p9Iiao2
+<a href="http://twitter.com/search?q=%23developer" rel="external nofollow">#developer</a>… https://t.co/Jr5eb2PbTh</p>
+<span class="intent">
+<a href="http://twitter.com/intent/retweet?related=3rdwave_themes&amp;tweet_id=880584428963213313" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/retweet.png" height="16" width="16" alt="Retweet"></a>
+<a href="http://twitter.com/intent/tweet?related=3rdwave_themes&amp;in_reply_to=880584428963213313" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/reply.png" height="16" width="16" alt="Reply"></a>
+<a href="http://twitter.com/intent/favorite?related=3rdwave_themes&amp;tweet_id=880584428963213313" rel="nofollow"><img src="http://themes.3rdwavemedia.com/wp-content/plugins/wp-twitter-feed-pro/images/favorite.png" height="16" width="16" alt="Favorite"></a>
+</span>
+<span class="timeline"><a href="http://twitter.com/3rdwave_themes/statuses/880584428963213313" rel="external nofollow">(about 22 hours ago)</a><br /></span>
+</li>
+</ul><a href="https://twitter.com/3rdwave_themes" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @3rdwave_themes</a></div>
+		</div><div id="text-7" class="widget widget_text"><h3 class="sidebar-widget-title">Developer Courses</h3>			<div class="textwidget"><h4>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.543230&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fangularjs-from-zero-to-hero%2F">AngularJS: From Zero to Hero</a><IMG class="hidden" border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.543230&type=2&subid=0" >
+</h4>
+<div>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.543230&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fangularjs-from-zero-to-hero%2F"><IMG class="img-responsive" border=0 src="https://udemy-images.udemy.com/course/480x270/543230_6e3a_3.jpg" ></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.543230&type=2&subid=0" >
+</div>
+
+<br>
+
+<h4>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.289230&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flearn-angularjs%2F">Learn and Understand AngularJS</a><IMG class="hidden" border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.289230&type=2&subid=0" >
+</h4>
+<div>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.289230&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flearn-angularjs%2F"><IMG class="img-responsive" border=0 src="https://udemy-images.udemy.com/course/480x270/289230_1056_16.jpg" ></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.289230&type=2&subid=0" >
+</div>
+
+<h4>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.364426&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F">JavaScript: Understanding the Weird Parts</a><IMG class="hidden" border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.364426&type=2&subid=0" >
+</h4>
+<div>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.364426&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F"><IMG class="img-responsive" border=0 src="https://udemy-images.udemy.com/course/480x270/364426_2991_5.jpg" ></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.364426&type=2&subid=0" >
+</div>
+
+<h4>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.437398&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F">Build Responsive Real World Websites with HTML5 and CSS3</a><IMG class="hidden"  border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.437398&type=2&subid=0" >
+</h4>
+<div>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.437398&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F"><IMG class="img-responsive"  border=0 src="https://udemy-images.udemy.com/course/480x270/437398_46c3_6.jpg" ></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.437398&type=2&subid=0" >
+</div>
+
+<h4>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.427530&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flearn-bootstrap-development-by-building-10-projects%2F">Learn Bootstrap Development By Building 10 Projects</a><IMG class="hidden" border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.427530&type=2&subid=0" >
+</h4>
+<div>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.427530&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Flearn-bootstrap-development-by-building-10-projects%2F"><IMG class="img-responsive" border=0 src="https://udemy-images.udemy.com/course/480x270/427530_d0e0.jpg" ></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.427530&type=2&subid=0" >
+</div>
+
+<h4>
+   <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.271228&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fbootstrap-to-wordpress%2F">WordPress Theme Development with Bootstrap</a><IMG class="hidden" border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.271228&type=2&subid=0" > 
+</h4>
+<div>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.271228&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fbootstrap-to-wordpress%2F"><IMG class="img-responsive" border=0 src="https://udemy-images.udemy.com/course/480x270/271228_ce5b_8.jpg" ></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.271228&type=2&subid=0" >
+</div>
+
+<h4>
+   <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.58207&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fuser-experience-design-fundamentals%2F">User Experience Design Fundamentals</a><IMG class="hidden" border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.58207&type=2&subid=0" > 
+</h4>
+<div>
+    <a target='new' href="http://click.linksynergy.com/link?id=tbwdNgYW2gE&offerid=323057.58207&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fuser-experience-design-fundamentals%2F"><IMG class="img-responsive" border=0 src="https://udemy-images.udemy.com/course/480x270/58207_2ec2_6.jpg" ></a><IMG border=0 width=1 height=1 src="http://ad.linksynergy.com/fs-bin/show?id=tbwdNgYW2gE&bids=323057.58207&type=2&subid=0" >
+</div>
+</div>
+		</div>
+</aside><!--//secondary-->
+
+                </div><!--//row-->
+    			
+    		</article><!-- #post-730 -->	
+						
+    	    	 
+    </section><!--//primary-->
+</div><!--//content-wrapper -->
+    </div><!--//wrapper -->
+
+    <!-- ******FOOTER****** --> 
+    <footer class="footer">
+        <div class="container text-center">
+                <small class="copyright">Copyright &copy; 2017 <a href="http://3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>
+        </div><!--//container-->
+    </footer><!--//footer-->
+    
+        
+    
+    <!-- Modal -->
+    <div class="modal fade" id="promo-modal" tabindex="-1" role="dialog" aria-labelledby="promo-modal-label" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content text-center">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                    <h4 class="modal-title" id="promo-modal-label">Thank you for downloading :)</h4>
+                </div>
+                <div class="modal-body">
+                    <i class="fa fa-heart"></i>
+                    <h3 class="title">Like the free template?</h3>
+                    <p class="summary">"Like" us on Facebook or Follow us on Twitter! </p>
+                    <p>Be the first to know about our latest freebies.</p>
+                    <div class="social-media">
+                        <div class="fb-like item" data-href="https://www.facebook.com/3rdwavethemes/" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div><!--//fb-like-->
+                        <div class="tweet-btn item"><a href="https://twitter.com/share" class="twitter-share-button" data-text="Free #mobile #responsive website template designed for #developers: " data-via="3rdwave_themes" data-hashtags="startups">Tweet</a></div><!--//tweet-btn-->
+                    </div><!--//social-media-->                 
+                </div><!--//modal-body-->
+                
+                <div class="modal-footer">
+                                    </div><!--//modal-footer-->
+               
+            </div><!--//modal-content-->
+        </div><!--//modal-dialog-->
+    </div><!--//modal-->
+    
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
+    
+        <script type="text/javascript">
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/platform.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+    
+            <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = '3wmthemes';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type="text/javascript">
+jQuery(document).ready(function($) {
+    $(function() {
+    	$('[class*=eStore]').find('a[rel*=lightbox]').lightBox({
+    	imageLoading: 'http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-ico-loading.gif',
+    	imageBtnClose: 'http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-btn-close.gif',
+    	imageBtnPrev: 'http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-btn-prev.gif',
+    	imageBtnNext: 'http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-btn-next.gif',
+    	imageBlank: 'http://themes.3rdwavemedia.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-blank.gif',
+    	txtImage: 'Image',
+    	txtOf: 'of'
+        });
+    });    
+});
+</script>
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+$(function() {
+	if ($('.t-and-c').length ) {
+	    //Terms and condtions is being used so apply validation
+	}else{
+		return;
+	}
+	$('.t_and_c_error').hide();
+   $(".t-and-c").click(function(){
+       if($(".t-and-c").is(':checked')){  
+    	  $.cookie("eStore_submit_payment","true",{path: '/'}); 
+          $('.t_and_c_error').hide();          
+       }
+       else{
+    	   $.cookie("eStore_submit_payment","false",{path: '/'});	
+       }                 
+   });    
+   $(".eStore_paypal_checkout_button").click(function(e){
+       if(!$(".t-and-c").is(':checked')){
+           $('.t_and_c_error').show();
+           e.preventDefault();         
+       }
+   });   
+   $(".eStore_buy_now_button").click(function(e){
+       if(!$(".t-and-c").is(':checked')){
+           $('.t_and_c_error').show();
+           e.preventDefault();         
+       }
+   });   
+   $(".eStore_subscribe_button").click(function(e){
+       if(!$(".t-and-c").is(':checked')){
+           $('.t_and_c_error').show();
+           e.preventDefault();         
+       }
+   }); 
+	$(".free_download_submit").click(function(e) {//Non-Ajax free download squeeze page button clicked	
+		if(!$(".t-and-c").is(':checked')){
+			$('.t_and_c_error').show();
+			e.preventDefault();
+		}
+	});   
+ });
+ });
+</script>
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+$(function() {
+	var shipping_var_warning_class = $('.shipping_var_changed');
+	var shipping_var_warning_default_class = $('.shipping_var_changed_default');
+	shipping_var_warning_class.hide();
+	$('.shipping_variation').change(function(){
+		shipping_var_warning_default_class.hide();
+		shipping_var_warning_class.show();
+	});
+	var eStore_shipping_var_needs_update = false;
+	if(shipping_var_warning_class.is(":visible")){eStore_shipping_var_needs_update = true;}
+	else if(shipping_var_warning_default_class.is(":visible")){eStore_shipping_var_needs_update = true;}	
+	$(".eStore_paypal_checkout_button").click(function(e){//Check if shipping variation has been selected
+		if(eStore_shipping_var_needs_update){
+	    	shipping_var_warning_class.css({'border':'1px solid red','padding':'5px'});
+	    	shipping_var_warning_default_class.css({'border':'1px solid red','padding':'5px'});
+	    	e.preventDefault();
+		}
+	});	
+ });
+ });
+</script>
+<script type="text/javascript">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+$(function(){
+	var eStore_cart_item_qty = $('.eStore_cart_item_qty');
+	eStore_cart_item_qty.keypress(function(){
+		$('.eStore_qty_change_pinfo').show();
+	});
+ });
+ });
+</script>
+<link rel='stylesheet' id='tabby-css'  href='http://themes.3rdwavemedia.com/wp-content/plugins/tabby-responsive-tabs/css/tabby.css?ver=1.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tabby-print-css'  href='http://themes.3rdwavemedia.com/wp-content/plugins/tabby-responsive-tabs/css/tabby-print.css?ver=1.2.3' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/themes.3rdwavemedia.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/bootstrap/js/bootstrap.min.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/back-to-top.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/jquery.easing.1.3.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/jquery-scrollTo/jquery.scrollTo.min.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/jquery-placeholder/jquery.placeholder.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/js/form.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/plugins/tweetie/tweetie.min.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/themes/3wm-themes/js/main.js?ver=1'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js?ver=2'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-includes/js/wp-embed.min.js?ver=4.8'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-includes/js/comment-reply.min.js?ver=4.8'></script>
+<script type='text/javascript' src='http://themes.3rdwavemedia.com/wp-content/plugins/tabby-responsive-tabs/js/tabby.js?ver=1.2.3'></script>
+
+<script>jQuery(document).ready(function($) { RESPONSIVEUI.responsiveTabs(); })</script>
+</body>
+</html>
+
+
+
+
+
